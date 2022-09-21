@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "curses.h": "c",
+        "main.C": "cpp",
+        "chrono": "c",
+        "variant": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
